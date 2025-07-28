@@ -1,0 +1,14 @@
+.container {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  column-gap: 5px;
+  width: 20em;
+  height: 10em;
+  background-color: white;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 10px 15px;
+}
+.text {
+  margin: 0;
+}
